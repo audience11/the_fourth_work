@@ -25,13 +25,14 @@
 6.设置税后收入函数cal_tax
 
 ## 五、流程图 
+![](https://github.com/haaix/Java-lab4/blob/main/img/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ## 六、关键代码
 1. 给学生分配实验室
         stu1.add_lab(lab1);
         stu1.add_lab(lab2);
         stu2.add_lab(lab3);
         stu3.add_lab(lab4);
-2. 异常处理。
+2. 异常处理
 try {
             Scanner in = new Scanner(System.in);
             System.out.println("请打分");
@@ -97,11 +98,9 @@ try {
             System.out.println(this.name + "的税后所得为"+ Math.round(money*(1- Tax.taxmax))+"\n");
         }
     }
-## 五、流程图
-![](https://github.com/haaix/Java-lab4/blob/main/img/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ## 七、运行截图
 ![](https://github.com/haaix/Java-lab4/blob/main/img/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
-## 七、实验感想
+## 八、实验感想
 &emsp;&emsp;通过本次实验,熟悉掌握了Java的异常机制,try catch的执行过程。
 通过new一个数组,从而通过数组的下标取出内容，当下标不合法时就会出现数组下标越界异常。
 通过catch捕获异常,并对异常作出处理。同时也了解到了static以及final的使用。
