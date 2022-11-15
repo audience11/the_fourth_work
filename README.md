@@ -25,7 +25,7 @@
 6.设置税后收入函数cal_tax
 
 ## 五、流程图 
-![](https://github.com/haaix/Java-lab4/blob/main/img/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
+![](https://github.com/audience11/the_fourth_work/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ## 六、关键代码
 1. 给学生分配实验室
         stu1.add_lab(lab1);
