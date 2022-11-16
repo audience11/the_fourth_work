@@ -57,9 +57,9 @@ try {
             System.out.println("异常");
         }
     }
-    ```
+```
 3.计算全部所得钱数
-'''
+```
     public void cal_money(){
         int[] a = new int[18];
 
@@ -90,9 +90,9 @@ try {
         }
         System.out.println(this.name + "的总共收入" + money);
     }
-    ```
+```
 4. 计算税收
-   ```
+```
    public void cal_tax(){
         if(money<=200){
             System.out.println(this.name + "的税后所得为"+ Math.round(money*(1- Tax.taxmin))+"\n");
@@ -104,7 +104,7 @@ try {
             System.out.println(this.name + "的税后所得为"+ Math.round(money*(1- Tax.taxmax))+"\n");
         }
     }
-    ```
+```
 ## 七、运行截图
 ![](https://github.com/audience11/the_fourth_work/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 ## 八、实验感想
