@@ -27,11 +27,12 @@
 ![](https://github.com/audience11/the_fourth_work/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ## 六、关键代码
 1. 给学生分配实验室
-       ```
-       stu1.add_lab(lab1);
-       stu1.add_lab(lab2);
-       stu2.add_lab(lab3);
-       stu3.add_lab(lab4);```
+```
+stu1.add_lab(lab1);
+stu1.add_lab(lab2);
+stu2.add_lab(lab3);
+stu3.add_lab(lab4);
+```
 2. 异常处理
 try {
             Scanner in = new Scanner(System.in);
