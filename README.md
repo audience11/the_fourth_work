@@ -1,5 +1,5 @@
 ## 一、实验目的
-1.掌握系统中涉及的类的定义；&emsp;&emsp;
+1.掌握系统中涉及的类的定义；##
 2.应用顶层Object类中toString()方法；&emsp;&emsp;
 3.掌握static、final等修饰符的用法。&emsp;&emsp;
 ## 二、实验内容
