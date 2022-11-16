@@ -27,10 +27,11 @@
 ![](https://github.com/audience11/the_fourth_work/blob/main/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ## 六、关键代码
 1. 给学生分配实验室
-        stu1.add_lab(lab1);
-        stu1.add_lab(lab2);
-        stu2.add_lab(lab3);
-        stu3.add_lab(lab4);
+       ```
+       stu1.add_lab(lab1);
+       stu1.add_lab(lab2);
+       stu2.add_lab(lab3);
+       stu3.add_lab(lab4);```
 2. 异常处理
 try {
             Scanner in = new Scanner(System.in);
@@ -100,6 +101,4 @@ try {
 ## 七、运行截图
 ![](https://github.com/audience11/the_fourth_work/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 ## 八、实验感想
-&emsp;&emsp;通过本次实验,熟悉掌握了Java的异常机制,try catch的执行过程。
-通过new一个数组,从而通过数组的下标取出内容，当下标不合法时就会出现数组下标越界异常。
-通过catch捕获异常,并对异常作出处理。同时也了解到了static以及final的使用。
+&emsp;&emsp;通过本次实验,我加深了对Java异常机制的理解,也应用了try catch结构做代码块异常判别。通过new一个数组,从而通过数组的下标取出内容，当下标不合法时就会出现数组下标越界异常。通过catch捕获异常,并对异常作出处理，同时练习了非访问控制修饰符static以及final的使用，学到了很多新知识，也感谢老师的辛勤付出。
