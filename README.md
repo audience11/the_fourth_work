@@ -99,7 +99,7 @@ try {
         }
     }
 ## 七、运行截图
-![](https://github.com/haaix/Java-lab4/blob/main/img/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
+![](https://github.com/audience11/the_fourth_work/blob/main/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 ## 八、实验感想
 &emsp;&emsp;通过本次实验,熟悉掌握了Java的异常机制,try catch的执行过程。
 通过new一个数组,从而通过数组的下标取出内容，当下标不合法时就会出现数组下标越界异常。
